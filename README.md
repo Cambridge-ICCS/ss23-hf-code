@@ -11,6 +11,8 @@ Requires Python libraries `torch` and `torchvision`. With `pip`:
 
     pip install -r requirements.txt
 
+TODO: Note about venv
+
 ### Training and saving model
 `python main.py --save-model`
 
