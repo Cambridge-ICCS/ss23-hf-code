@@ -1,4 +1,4 @@
-# ICCS Summer School '23: Introduction Hugging Face -- Model code
+# ICCS Summer School '23: Introduction to Hugging Face -- Model code
 This repository stores a simple Python script which trains a Pytorch model
 (adapted from an example in
 https://github.com/pytorch/examples/tree/7f7c222b355abd19ba03a7d4ba90f1092973cdbc).
